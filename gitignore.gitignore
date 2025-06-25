@@ -1,0 +1,14 @@
+*.h5
+*.ipynb_checkpoints/
+*.log
+*.pkl
+*.py[cod]
+*.xlsx
+.DS_Store
+.env
+.idea/
+.vscode/
+__pycache__/
+data/
+outputs/
+shap_visuals/
