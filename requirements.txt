@@ -1,0 +1,9 @@
+tensorflow>=2.0
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+shap
+openpyxl
