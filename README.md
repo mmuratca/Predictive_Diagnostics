@@ -79,7 +79,7 @@ This model predicts a numeric **System Health Score** using device-level metrics
 
 ---
 
-## 📁 Suggested Project Structure (Phase 2 Ready)
+## 📁 Project Structure (Phase 2 next)
 
 ```
 SystemHealthDiagnostics/
